@@ -149,4 +149,4 @@ console.log(averageRating = moves.reduce((sum, move) =>
 )
 
 //8
-console.log(moves.sort((a, b) => b.rating - a.rating).map(move => move.title + " - " + move.rating));
+console.log(moves.sort((a, b) => b.rating - a.rating).map(move => move.title + " - " + move.rating));+
